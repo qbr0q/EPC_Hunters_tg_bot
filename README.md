@@ -4,22 +4,20 @@ llm странно отрисовывает фото по промту (с мо�
 🚀 Быстрый старт!
 
 1. Клонируй репозиторий
-git clone https://github.com/ТВОЙ_ЮЗЕР/ТВОЙ_РЕПО.git<br>
-cd ТВОЙ_РЕПО
+git clone https://github.com/qbr0q/EPC_Hunters_tg_bot.git<br>
+cd ТВОЙ_РЕПО<br><br>
 
-2. Создай конфиги из шаблонов
-cp config_example.env config.env
-cp settings_example.py settings.py
-отредактируй config.env и settings.py
+2. Создай конфиги из шаблонов<br>
+cp config_example.env config.env<br>
+cp settings_example.py settings.py<br>
+отредактируй config.env и settings.py<br><br>
 
-3. Активируй виртуальное окружение (рекомендуется)
-python3 -m venv venv
-source venv/bin/activate   # Linux/macOS
-venv\Scripts\activate.bat  # Windows
+3. Активируй виртуальное окружение (рекомендуется)<br>
+python3 -m venv venv<br>
+source venv/bin/activate<br><br>
 
-4. Установи зависимости
-pip install -r requirements.txt
+4. Установи зависимости<br>
+pip install -r requirements.txt<br><br>
 
-5. Запусти проект
-
+5. Запусти проект<br>
 python main.py
