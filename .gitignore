@@ -1,2 +1,5 @@
 config.env
 settings.py
+.idea/
+__pycache__/
+*.pyc
