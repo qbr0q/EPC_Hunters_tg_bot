@@ -2,4 +2,6 @@ config.env
 settings.py
 .idea/
 __pycache__/
+db/__pycache__/
+gpt_api/__pycache__/
 *.pyc
